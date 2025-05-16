@@ -28,7 +28,7 @@ netflix-data-analysis/
 git clone https://github.com/yourusername/netflix-data-analysis.git
 cd netflix-data-analysis
 pip install -r requirements.txt
-python src/analyze_netflix.py
+python src/analysis.py
 ```
 
 ## Requirements
